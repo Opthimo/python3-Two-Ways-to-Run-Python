@@ -113,7 +113,7 @@ It defines the main function
 
 5. How does a shebang line help in Linux environments?
 
-you don't have to type "python(3) ..."
+you don't have to type "python(3) ...". You can exute scriptlanguage-files
 
 6. What's the difference between importing a library and accessing a built-in?
 
