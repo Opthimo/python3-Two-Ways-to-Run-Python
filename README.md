@@ -96,10 +96,25 @@ You successfully added a shebang and the permissions. Now run your python-script
 ## Questions
 
 1. What does REPL stand for, and why is it useful?
+
+Python Read-Evaluate-Print Loop (REPL) is an interactive interface that allows you to enter Python code and receive immediate output
+
 2. Why does `range(1, 101)` include 100 but not 101?
+
+range doesn't include the last value. range(from, to-1)
+
 3. What happens when you call `print()` in Python? What's executed under the hood?
+
+print to the stdin, the terminal
+
 4. What is the role of `__name__ == "__main__"` in a script?
+
+It defines the main function
+
 5. How does a shebang line help in Linux environments?
+
+you don't have to type "python(3) ..."
+
 6. What's the difference between importing a library and accessing a built-in?
 
 
