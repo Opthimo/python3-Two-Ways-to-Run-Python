@@ -109,7 +109,7 @@ print to the stdin, the terminal
 
 4. What is the role of `__name__ == "__main__"` in a script?
 
-It defines the main function
+This part will only be executed if the file is executed per skript, not as import.
 
 5. How does a shebang line help in Linux environments?
 
